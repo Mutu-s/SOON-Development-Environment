@@ -11,7 +11,7 @@
 
      rustup default 1.79.0 
  
- 1.79.0  Dönemmeizin sebebi hata veriyor
+ 1.79.0  Dönmemizin sebebi 1.81.0 de hata veriyor
  
      sh -c "$(curl -sSfL https://release.anza.xyz/v2.0.3/install)"
      export PATH="$HOME/.local/share/solana/install/active_release/bin:$PATH"
@@ -46,6 +46,7 @@
 
       solana-keygen recover prompt://?key=0/0
 
+ İşlemlere Devam
 
       git clone https://github.com/soonlabs/hello-world
       cd hello-world
